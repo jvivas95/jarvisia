@@ -1,0 +1,5 @@
+vosk
+PyAudio
+pyttsx3
+pywhatkit
+requests
